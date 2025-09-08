@@ -1,5 +1,3 @@
-Let's Begin
-`line 2 changed remotely`
 Cream Puff Ingredients
 Here's what you'll need to make this top-rated cream puff recipe:
 
