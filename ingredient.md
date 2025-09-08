@@ -21,4 +21,3 @@ All-purpose flour adds structure to the choux pastry and works with the water to
 
 Eggs
 Whole eggs support the structure, lend rich flavor and color, and add moisture to the choux pastry. (2 large)
-Enjoy my recipe!
