@@ -24,4 +24,3 @@ Eggs
 Whole eggs support the structure, lend rich flavor and color, and add moisture to the choux pastry. (2 large)
 
 Enjoy my recipe!
-6662223333
