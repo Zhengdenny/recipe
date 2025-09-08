@@ -1,4 +1,3 @@
-Let's Begin
 Cream Puff Ingredients
 Here's what you'll need to make this top-rated cream puff recipe:
 
@@ -22,4 +21,3 @@ All-purpose flour adds structure to the choux pastry and works with the water to
 
 Eggs
 Whole eggs support the structure, lend rich flavor and color, and add moisture to the choux pastry. (2 large)
-Enjoy my recipe!
