@@ -1,9 +1,16 @@
-### This is a LOCAL Change :)
-This is Denny's receipe
-recipe
-line 2 changed remotely.
+
+# This is Denny's Recipe
+
+Recipe
+
 Cream puffs
+Why create them?
+They're tasty
+They look fancy
+No one can resist
+
 Creating the world's most delicious dessert
 last line changed locally
-### This is a REMOTE change :O
+
+Hope we all give them a try
 
