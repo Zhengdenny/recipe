@@ -1,7 +1,7 @@
 
 # This is Denny's Recipe
 
-Recipe
+**Recipe**
 
 Cream puffs
 Why create them?
