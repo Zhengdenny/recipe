@@ -5,9 +5,9 @@
 
 Cream puffs
 Why create them?
-They're tasty
-They look fancy
-No one can resist
+1. They're tasty
+2. They look fancy
+3. No one can resist
 
 Creating the world's most delicious dessert
 last line changed locally
